@@ -29,4 +29,4 @@
 
 ## GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=https://github.com/PraveenKumar004&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=PraveenKumar004&show_icons=true&theme=radical)
