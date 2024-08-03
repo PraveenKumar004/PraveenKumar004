@@ -16,7 +16,7 @@
 
 ## Projects
 
-- **[IPL Auction](#)**: A personal project developed using the MERN stack, simulating an IPL auction system.
+- **[IPL Auction](https://iplauctiongame.netlify.app/)**: A personal project developed using the MERN stack, simulating an IPL auction system.
 
 ## Experience
 
