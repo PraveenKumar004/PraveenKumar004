@@ -26,7 +26,3 @@
 
 - 📧 Email: [praveenkumarv989@gmail.com](mailto:praveenkumarv989@gmail.com)
 - 💼 LinkedIn: [Praveen Kumar](https://www.linkedin.com/in/praveenkumarv8112004/)
-
-## GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=PraveenKumar004&show_icons=true&theme=radical)
