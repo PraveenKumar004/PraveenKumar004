@@ -2,7 +2,7 @@
 
 ## About Me
 
-- 🎓 I am currently a 3rd-year student at **K.S.R. Institute for Engineering and Technology**, pursuing a B.Tech in **Computer Science and Business System**.
+- 🎓 I am currently a 3rd-year student at **K.S. Rangasamy College of Technology**, pursuing a B.Tech in **Computer Science and Business System**.
 - 💻 I am passionate about software development, web technologies, and problem-solving.
 - 🌱 I’m currently enhancing my skills in full stack development using the MERN stack.
 - 🚀 I have completed a 4-month internship as a web developer and worked on several projects, including my personal project "IPL Auction."
