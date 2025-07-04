@@ -2,14 +2,14 @@
 
 ## About Me
 
-- 🎓 I am currently a 3rd-year student at **K.S. Rangasamy College of Technology**, pursuing a B.Tech in **Computer Science and Business System**.
+- 🎓 I am currently a 4th-year student at **K.S. Rangasamy College of Technology**, pursuing a B.Tech in **Computer Science and Business System**.
 - 💻 I am passionate about software development, web technologies, and problem-solving.
 - 🌱 I’m currently enhancing my skills in full stack development using the MERN stack.
 - 🚀 I have completed a 4-month internship as a web developer and worked on several projects, including my personal project "IPL Auction."
 
 ## Skills
 
-- **Programming Languages:** Java, JavaScript, Python
+- **Programming Languages:** Java, JavaScript
 - **Web Technologies:** HTML, CSS, React, Node.js, Express.js, MongoDB
 - **Databases:** MySQL, MongoDB
 - **Tools & Platforms:** Git, GitHub, VS Code, Node.js
